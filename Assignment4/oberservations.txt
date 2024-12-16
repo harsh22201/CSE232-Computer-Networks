@@ -1,0 +1,588 @@
+Flow 1 (10.1.5.2 -> 10.1.6.2)
+Tx Packets: 13
+Rx Packets: 8
+Lost Packets: 5
+Throughput: 1.51384 kbps
+Average Delay: 0.006576 seconds
+Average Jitter: 0 seconds
+Flow 2 (10.1.5.2 -> 10.1.7.2)
+Tx Packets: 17
+Rx Packets: 13
+Lost Packets: 4
+Throughput: 1.84504 kbps
+Average Delay: 0.0099344 seconds
+Average Jitter: 0.000216089 seconds
+Flow 3 (10.1.5.2 -> 10.1.8.2)
+Tx Packets: 17
+Rx Packets: 12
+Lost Packets: 5
+Throughput: 1.94611 kbps
+Average Delay: 0.0113893 seconds
+Average Jitter: 0.000208 seconds
+Flow 4 (10.1.5.2 -> 10.1.9.2)
+Tx Packets: 9
+Rx Packets: 5
+Lost Packets: 4
+Throughput: 1.41681 kbps
+Average Delay: 0.0191651 seconds
+Average Jitter: 0.0004788 seconds
+Flow 5 (10.1.5.2 -> 10.1.10.2)
+Tx Packets: 13
+Rx Packets: 8
+Lost Packets: 5
+Throughput: 1.51251 kbps
+Average Delay: 0.0190944 seconds
+Average Jitter: 0.00110888 seconds
+Flow 6 (10.1.5.2 -> 10.1.11.2)
+Tx Packets: 13
+Rx Packets: 9
+Lost Packets: 4
+Throughput: 1.7013 kbps
+Average Delay: 0.021643 seconds
+Average Jitter: 0.000476667 seconds
+Flow 7 (10.1.6.2 -> 10.1.5.2)
+Tx Packets: 13
+Rx Packets: 11
+Lost Packets: 2
+Throughput: 2.08153 kbps
+Average Delay: 0.006576 seconds
+Average Jitter: 0 seconds
+Flow 8 (10.1.6.2 -> 10.1.7.2)
+Tx Packets: 18
+Rx Packets: 8
+Lost Packets: 10
+Throughput: 1.06865 kbps
+Average Delay: 0.0130291 seconds
+Average Jitter: 0.00244053 seconds
+Flow 9 (10.1.6.2 -> 10.1.8.2)
+Tx Packets: 5
+Rx Packets: 4
+Lost Packets: 1
+Throughput: 2.26469 kbps
+Average Delay: 0.0128193 seconds
+Average Jitter: 0.000254222 seconds
+Flow 10 (10.1.6.2 -> 10.1.9.2)
+Tx Packets: 6
+Rx Packets: 1
+Lost Packets: 5
+Throughput: 2.22262 kbps
+Average Delay: 0.0222192 seconds
+Average Jitter: 0 seconds
+Flow 11 (10.1.6.2 -> 10.1.10.2)
+Tx Packets: 9
+Rx Packets: 1
+Lost Packets: 8
+Throughput: 0.564777 kbps
+Average Delay: 0.0228293 seconds
+Average Jitter: 0 seconds
+Flow 12 (10.1.6.2 -> 10.1.11.2)
+Tx Packets: 7
+Rx Packets: 6
+Lost Packets: 1
+Throughput: 2.26568 kbps
+Average Delay: 0.0234649 seconds
+Average Jitter: 0.00305067 seconds
+Flow 13 (10.1.7.2 -> 10.1.5.2)
+Tx Packets: 9
+Rx Packets: 7
+Lost Packets: 2
+Throughput: 1.98523 kbps
+Average Delay: 0.011152 seconds
+Average Jitter: 0 seconds
+Flow 14 (10.1.7.2 -> 10.1.6.2)
+Tx Packets: 11
+Rx Packets: 5
+Lost Packets: 6
+Throughput: 1.13499 kbps
+Average Delay: 0.0102301 seconds
+Average Jitter: 0.000631333 seconds
+Flow 15 (10.1.7.2 -> 10.1.8.2)
+Tx Packets: 14
+Rx Packets: 10
+Lost Packets: 4
+Throughput: 1.89248 kbps
+Average Delay: 0.0086352 seconds
+Average Jitter: 0.000508444 seconds
+Flow 16 (10.1.7.2 -> 10.1.9.2)
+Tx Packets: 16
+Rx Packets: 11
+Lost Packets: 5
+Throughput: 1.66519 kbps
+Average Delay: 0.013135 seconds
+Average Jitter: 0.00076096 seconds
+Flow 17 (10.1.7.2 -> 10.1.10.2)
+Tx Packets: 11
+Rx Packets: 7
+Lost Packets: 4
+Throughput: 1.58796 kbps
+Average Delay: 0.0179797 seconds
+Average Jitter: 0.00120613 seconds
+Flow 18 (10.1.7.2 -> 10.1.11.2)
+Tx Packets: 10
+Rx Packets: 7
+Lost Packets: 3
+Throughput: 1.98215 kbps
+Average Delay: 0.0274053 seconds
+Average Jitter: 0.00177956 seconds
+Flow 19 (10.1.8.2 -> 10.1.5.2)
+Tx Packets: 12
+Rx Packets: 6
+Lost Packets: 6
+Throughput: 1.51318 kbps
+Average Delay: 0.008864 seconds
+Average Jitter: 0 seconds
+Flow 20 (10.1.8.2 -> 10.1.6.2)
+Tx Packets: 7
+Rx Packets: 6
+Lost Packets: 1
+Throughput: 2.26856 kbps
+Average Delay: 0.00910133 seconds
+Average Jitter: 0 seconds
+Flow 21 (10.1.8.2 -> 10.1.7.2)
+Tx Packets: 7
+Rx Packets: 3
+Lost Packets: 4
+Throughput: 1.3611 kbps
+Average Delay: 0.00772 seconds
+Average Jitter: 0 seconds
+Flow 22 (10.1.8.2 -> 10.1.9.2)
+Tx Packets: 3
+Rx Packets: 1
+Lost Packets: 2
+Throughput: 1.12991 kbps
+Average Delay: 0.0107792 seconds
+Average Jitter: 0 seconds
+Flow 23 (10.1.8.2 -> 10.1.10.2)
+Tx Packets: 13
+Rx Packets: 6
+Lost Packets: 7
+Throughput: 1.1353 kbps
+Average Delay: 0.0102072 seconds
+Average Jitter: 0.0009152 seconds
+Flow 24 (10.1.8.2 -> 10.1.11.2)
+Tx Packets: 6
+Rx Packets: 5
+Lost Packets: 1
+Throughput: 2.26483 kbps
+Average Delay: 0.0162875 seconds
+Average Jitter: 0.000190667 seconds
+Flow 25 (10.1.9.2 -> 10.1.5.2)
+Tx Packets: 9
+Rx Packets: 7
+Lost Packets: 2
+Throughput: 1.9841 kbps
+Average Delay: 0.015728 seconds
+Average Jitter: 0 seconds
+Flow 26 (10.1.9.2 -> 10.1.6.2)
+Tx Packets: 11
+Rx Packets: 9
+Lost Packets: 2
+Throughput: 2.04252 kbps
+Average Delay: 0.0148392 seconds
+Average Jitter: 0.000887667 seconds
+Flow 27 (10.1.9.2 -> 10.1.7.2)
+Tx Packets: 12
+Rx Packets: 9
+Lost Packets: 3
+Throughput: 2.04216 kbps
+Average Delay: 0.0143044 seconds
+Average Jitter: 0.00101053 seconds
+Flow 28 (10.1.9.2 -> 10.1.8.2)
+Tx Packets: 8
+Rx Packets: 4
+Lost Packets: 4
+Throughput: 1.29566 kbps
+Average Delay: 0.0142112 seconds
+Average Jitter: 0 seconds
+Flow 29 (10.1.9.2 -> 10.1.10.2)
+Tx Packets: 7
+Rx Packets: 7
+Lost Packets: 0
+Throughput: 2.64374 kbps
+Average Delay: 0.015728 seconds
+Average Jitter: 0 seconds
+Flow 30 (10.1.9.2 -> 10.1.11.2)
+Tx Packets: 7
+Rx Packets: 5
+Lost Packets: 2
+Throughput: 2.26236 kbps
+Average Delay: 0.0206939 seconds
+Average Jitter: 0.000190667 seconds
+Flow 31 (10.1.10.2 -> 10.1.5.2)
+Tx Packets: 14
+Rx Packets: 11
+Lost Packets: 3
+Throughput: 2.2697 kbps
+Average Delay: 0.0165631 seconds
+Average Jitter: 0.00114229 seconds
+Flow 32 (10.1.10.2 -> 10.1.6.2)
+Tx Packets: 7
+Rx Packets: 5
+Lost Packets: 2
+Throughput: 2.26374 kbps
+Average Delay: 0.0173381 seconds
+Average Jitter: 0.000572 seconds
+Flow 33 (10.1.10.2 -> 10.1.7.2)
+Tx Packets: 11
+Rx Packets: 6
+Lost Packets: 5
+Throughput: 1.36082 kbps
+Average Delay: 0.0164992 seconds
+Average Jitter: 0.00152533 seconds
+Flow 34 (10.1.10.2 -> 10.1.8.2)
+Tx Packets: 10
+Rx Packets: 8
+Lost Packets: 2
+Throughput: 2.01666 kbps
+Average Delay: 0.0147451 seconds
+Average Jitter: 0.000348648 seconds
+Flow 35 (10.1.10.2 -> 10.1.9.2)
+Tx Packets: 9
+Rx Packets: 9
+Lost Packets: 0
+Throughput: 2.55171 kbps
+Average Delay: 0.0164964 seconds
+Average Jitter: 0.0005254 seconds
+Flow 36 (10.1.10.2 -> 10.1.11.2)
+Tx Packets: 13
+Rx Packets: 9
+Lost Packets: 4
+Throughput: 1.85699 kbps
+Average Delay: 0.0198634 seconds
+Average Jitter: 0.00190667 seconds
+Flow 37 (10.1.11.2 -> 10.1.5.2)
+Tx Packets: 9
+Rx Packets: 6
+Lost Packets: 3
+Throughput: 2.71909 kbps
+Average Delay: 0.01344 seconds
+Average Jitter: 0 seconds
+Flow 38 (10.1.11.2 -> 10.1.6.2)
+Tx Packets: 8
+Rx Packets: 6
+Lost Packets: 2
+Throughput: 1.94373 kbps
+Average Delay: 0.0136152 seconds
+Average Jitter: 7.456e-05 seconds
+Flow 39 (10.1.11.2 -> 10.1.7.2)
+Tx Packets: 14
+Rx Packets: 12
+Lost Packets: 2
+Throughput: 2.26913 kbps
+Average Delay: 0.0187618 seconds
+Average Jitter: 0.00167787 seconds
+Flow 40 (10.1.11.2 -> 10.1.8.2)
+Tx Packets: 11
+Rx Packets: 9
+Lost Packets: 2
+Throughput: 2.04216 kbps
+Average Delay: 0.015907 seconds
+Average Jitter: 0.000505267 seconds
+Flow 41 (10.1.11.2 -> 10.1.9.2)
+Tx Packets: 8
+Rx Packets: 6
+Lost Packets: 2
+Throughput: 2.26434 kbps
+Average Delay: 0.0211373 seconds
+Average Jitter: 0.00084064 seconds
+Flow 42 (10.1.11.2 -> 10.1.10.2)
+Tx Packets: 10
+Rx Packets: 8
+Lost Packets: 2
+Throughput: 2.26747 kbps
+Average Delay: 0.0212002 seconds
+Average Jitter: 0.00248411 seconds
+Flow 43 (10.1.6.2 -> 10.1.5.2)
+Tx Packets: 8
+Rx Packets: 3
+Lost Packets: 5
+Throughput: 0.681131 kbps
+Average Delay: 0.010683 seconds
+Average Jitter: 0.00342347 seconds
+Flow 44 (10.1.7.2 -> 10.1.8.2)
+Tx Packets: 3
+Rx Packets: 2
+Lost Packets: 1
+Throughput: 1.13276 kbps
+Average Delay: 0.01144 seconds
+Average Jitter: 0 seconds
+Flow 45 (10.1.6.2 -> 10.1.8.2)
+Tx Packets: 6
+Rx Packets: 4
+Lost Packets: 2
+Throughput: 1.51226 kbps
+Average Delay: 0.0124315 seconds
+Average Jitter: 0.00200836 seconds
+Flow 46 (10.1.8.2 -> 10.1.7.2)
+Tx Packets: 10
+Rx Packets: 7
+Lost Packets: 3
+Throughput: 1.44542 kbps
+Average Delay: 0.0102718 seconds
+Average Jitter: 0.00223716 seconds
+Flow 47 (10.1.7.2 -> 10.1.5.2)
+Tx Packets: 13
+Rx Packets: 8
+Lost Packets: 5
+Throughput: 1.13557 kbps
+Average Delay: 0.00980253 seconds
+Average Jitter: 0.00145996 seconds
+Flow 48 (10.1.5.2 -> 10.1.7.2)
+Tx Packets: 7
+Rx Packets: 4
+Lost Packets: 3
+Throughput: 1.13382 kbps
+Average Delay: 0.0153679 seconds
+Average Jitter: 0.000434845 seconds
+Flow 49 (10.1.5.2 -> 10.1.11.2)
+Tx Packets: 6
+Rx Packets: 5
+Lost Packets: 1
+Throughput: 2.26326 kbps
+Average Delay: 0.0200667 seconds
+Average Jitter: 0.00324133 seconds
+Flow 50 (10.1.6.2 -> 10.1.9.2)
+Tx Packets: 9
+Rx Packets: 2
+Lost Packets: 7
+Throughput: 0.647929 kbps
+Average Delay: 0.0133043 seconds
+Average Jitter: 0.0042032 seconds
+Flow 51 (10.1.8.2 -> 10.1.9.2)
+Tx Packets: 4
+Rx Packets: 0
+Lost Packets: 4
+Throughput: -0 kbps
+Average Delay: 0 seconds
+Average Jitter: 0 seconds
+Flow 52 (10.1.9.2 -> 10.1.7.2)
+Tx Packets: 11
+Rx Packets: 7
+Lost Packets: 4
+Throughput: 1.06015 kbps
+Average Delay: 0.00950072 seconds
+Average Jitter: 0.00180489 seconds
+Flow 53 (10.1.8.2 -> 10.1.10.2)
+Tx Packets: 8
+Rx Packets: 4
+Lost Packets: 4
+Throughput: 1.0092 kbps
+Average Delay: 0.0081224 seconds
+Average Jitter: 0.00157618 seconds
+Flow 54 (10.1.10.2 -> 10.1.9.2)
+Tx Packets: 7
+Rx Packets: 4
+Lost Packets: 3
+Throughput: 1.81441 kbps
+Average Delay: 0.0083216 seconds
+Average Jitter: 0.00225973 seconds
+Flow 55 (10.1.5.2 -> 10.1.9.2)
+Tx Packets: 7
+Rx Packets: 2
+Lost Packets: 5
+Throughput: 0.906379 kbps
+Average Delay: 0.0156432 seconds
+Average Jitter: 0.004576 seconds
+Flow 56 (10.1.6.2 -> 10.1.10.2)
+Tx Packets: 5
+Rx Packets: 0
+Lost Packets: 5
+Throughput: -0 kbps
+Average Delay: 0 seconds
+Average Jitter: 0 seconds
+Flow 57 (10.1.11.2 -> 10.1.8.2)
+Tx Packets: 5
+Rx Packets: 4
+Lost Packets: 1
+Throughput: 1.81398 kbps
+Average Delay: 0.0103299 seconds
+Average Jitter: 0.000288 seconds
+Flow 58 (10.1.8.2 -> 10.1.11.2)
+Tx Packets: 9
+Rx Packets: 9
+Lost Packets: 0
+Throughput: 2.04341 kbps
+Average Delay: 0.0141668 seconds
+Average Jitter: 0.00309407 seconds
+Flow 59 (10.1.9.2 -> 10.1.10.2)
+Tx Packets: 9
+Rx Packets: 8
+Lost Packets: 1
+Throughput: 2.27118 kbps
+Average Delay: 0.00813727 seconds
+Average Jitter: 0.00209181 seconds
+Flow 60 (10.1.10.2 -> 10.1.7.2)
+Tx Packets: 7
+Rx Packets: 5
+Lost Packets: 2
+Throughput: 1.13476 kbps
+Average Delay: 0.00966048 seconds
+Average Jitter: 0.00134307 seconds
+Flow 61 (10.1.5.2 -> 10.1.10.2)
+Tx Packets: 11
+Rx Packets: 6
+Lost Packets: 5
+Throughput: 1.2386 kbps
+Average Delay: 0.0138919 seconds
+Average Jitter: 0.00128469 seconds
+Flow 62 (10.1.7.2 -> 10.1.11.2)
+Tx Packets: 12
+Rx Packets: 8
+Lost Packets: 4
+Throughput: 1.65131 kbps
+Average Delay: 0.0161453 seconds
+Average Jitter: 0.00202164 seconds
+Flow 63 (10.1.9.2 -> 10.1.11.2)
+Tx Packets: 6
+Rx Packets: 5
+Lost Packets: 1
+Throughput: 1.8893 kbps
+Average Delay: 0.014111 seconds
+Average Jitter: 0.00314387 seconds
+Flow 64 (10.1.11.2 -> 10.1.9.2)
+Tx Packets: 5
+Rx Packets: 5
+Lost Packets: 0
+Throughput: 2.26605 kbps
+Average Delay: 0.0100978 seconds
+Average Jitter: 0.00167773 seconds
+Flow 65 (10.1.10.2 -> 10.1.11.2)
+Tx Packets: 8
+Rx Packets: 2
+Lost Packets: 6
+Throughput: 0.647982 kbps
+Average Delay: 0.0107707 seconds
+Average Jitter: 0.00333867 seconds
+Flow 66 (10.1.11.2 -> 10.1.5.2)
+Tx Packets: 9
+Rx Packets: 5
+Lost Packets: 4
+Throughput: 1.13517 kbps
+Average Delay: 0.0102436 seconds
+Average Jitter: 0.000470267 seconds
+Flow 67 (10.1.11.2 -> 10.1.10.2)
+Tx Packets: 9
+Rx Packets: 8
+Lost Packets: 1
+Throughput: 1.65306 kbps
+Average Delay: 0.00951653 seconds
+Average Jitter: 0.000433372 seconds
+Flow 68 (10.1.11.2 -> 10.1.7.2)
+Tx Packets: 7
+Rx Packets: 5
+Lost Packets: 2
+Throughput: 1.41913 kbps
+Average Delay: 0.0110165 seconds
+Average Jitter: 0 seconds
+Flow 69 (10.1.5.2 -> 10.1.6.2)
+Tx Packets: 11
+Rx Packets: 9
+Lost Packets: 2
+Throughput: 1.85698 kbps
+Average Delay: 0.0129541 seconds
+Average Jitter: 0.0005 seconds
+Flow 70 (10.1.5.2 -> 10.1.8.2)
+Tx Packets: 6
+Rx Packets: 2
+Lost Packets: 4
+Throughput: 4.47906 kbps
+Average Delay: 0.0144229 seconds
+Average Jitter: 0.000152533 seconds
+Flow 71 (10.1.8.2 -> 10.1.5.2)
+Tx Packets: 12
+Rx Packets: 9
+Lost Packets: 3
+Throughput: 1.57205 kbps
+Average Delay: 0.00880652 seconds
+Average Jitter: 0.000453333 seconds
+Flow 72 (10.1.10.2 -> 10.1.8.2)
+Tx Packets: 6
+Rx Packets: 5
+Lost Packets: 1
+Throughput: 1.03247 kbps
+Average Delay: 0.00970624 seconds
+Average Jitter: 0.0007372 seconds
+Flow 73 (10.1.7.2 -> 10.1.6.2)
+Tx Packets: 8
+Rx Packets: 6
+Lost Packets: 2
+Throughput: 0.8518 kbps
+Average Delay: 0.0104995 seconds
+Average Jitter: 0.00138293 seconds
+Flow 74 (10.1.8.2 -> 10.1.6.2)
+Tx Packets: 4
+Rx Packets: 4
+Lost Packets: 0
+Throughput: 3.01935 kbps
+Average Delay: 0.00923467 seconds
+Average Jitter: 0.00181333 seconds
+Flow 75 (10.1.6.2 -> 10.1.11.2)
+Tx Packets: 6
+Rx Packets: 4
+Lost Packets: 2
+Throughput: 2.26251 kbps
+Average Delay: 0.0184947 seconds
+Average Jitter: 0.00355911 seconds
+Flow 76 (10.1.7.2 -> 10.1.9.2)
+Tx Packets: 9
+Rx Packets: 6
+Lost Packets: 3
+Throughput: 1.94421 kbps
+Average Delay: 0.0126461 seconds
+Average Jitter: 0.00381675 seconds
+Flow 77 (10.1.7.2 -> 10.1.10.2)
+Tx Packets: 6
+Rx Packets: 2
+Lost Packets: 4
+Throughput: 4.49027 kbps
+Average Delay: 0.01094 seconds
+Average Jitter: 0.00205067 seconds
+Flow 78 (10.1.9.2 -> 10.1.6.2)
+Tx Packets: 1
+Rx Packets: 0
+Lost Packets: 1
+Throughput: -0 kbps
+Average Delay: 0 seconds
+Average Jitter: 0 seconds
+Flow 79 (10.1.11.2 -> 10.1.6.2)
+Tx Packets: 6
+Rx Packets: 5
+Lost Packets: 1
+Throughput: 2.27237 kbps
+Average Delay: 0.00987413 seconds
+Average Jitter: 2.53335e-05 seconds
+Flow 80 (10.1.9.2 -> 10.1.8.2)
+Tx Packets: 1
+Rx Packets: 1
+Lost Packets: 0
+Throughput: 220.668 kbps
+Average Delay: 0.010296 seconds
+Average Jitter: 0 seconds
+Flow 81 (10.1.10.2 -> 10.1.5.2)
+Tx Packets: 8
+Rx Packets: 6
+Lost Packets: 2
+Throughput: 1.36224 kbps
+Average Delay: 0.0107312 seconds
+Average Jitter: 0.000420267 seconds
+Flow 82 (10.1.6.2 -> 10.1.7.2)
+Tx Packets: 5
+Rx Packets: 4
+Lost Packets: 1
+Throughput: 1.29589 kbps
+Average Delay: 0.0126433 seconds
+Average Jitter: 0.00293209 seconds
+Flow 83 (10.1.9.2 -> 10.1.5.2)
+Tx Packets: 5
+Rx Packets: 5
+Lost Packets: 0
+Throughput: 2.26822 kbps
+Average Delay: 0.0104877 seconds
+Average Jitter: 0.000432133 seconds
+Flow 84 (10.1.10.2 -> 10.1.6.2)
+Tx Packets: 1
+Rx Packets: 1
+Lost Packets: 0
+Throughput: 221.575 kbps
+Average Delay: 0.0102539 seconds
+Average Jitter: 0 seconds
