@@ -1,0 +1,298 @@
+2024-12-17 00:06:32,340 - Queue is empty
+2024-12-17 00:06:32,788 - [Entity_2] Generated packet 0
+2024-12-17 00:06:33,256 - [Entity_2] Generated packet 1
+2024-12-17 00:06:33,723 - [Entity_2] Generated packet 2
+2024-12-17 00:06:34,219 - [Entity_2] Generated packet 3
+2024-12-17 00:06:34,357 - Total packets transferred: 0
+2024-12-17 00:06:34,357 - Total packets dropped: 0
+2024-12-17 00:06:34,357 - Total packets received: 0
+2024-12-17 00:06:34,555 - [Entity_2] Generated packet 4
+2024-12-17 00:06:34,831 - [Entity_2] Generated packet 5
+2024-12-17 00:06:35,060 - [Entity_2] Generated packet 6
+2024-12-17 00:06:35,243 - [Entity_2] Generated packet 7
+2024-12-17 00:06:35,515 - [Entity_2] Out-of-order packet 1 received, expected 0, consider it as dropped
+2024-12-17 00:06:35,545 - [Entity_2] Packet 1 dropped
+2024-12-17 00:06:35,560 - [Entity_2] Generated packet 8
+2024-12-17 00:06:35,698 - [Entity_2] Sent packet 2
+2024-12-17 00:06:35,713 - [Entity_2] Out-of-order packet 2 received, expected 0, consider it as dropped
+2024-12-17 00:06:35,852 - [Entity_2] Sent packet 3
+2024-12-17 00:06:35,978 - [Entity_2] Sent packet 4
+2024-12-17 00:06:35,986 - [Entity_2] Generated packet 9
+2024-12-17 00:06:35,988 - [Entity_2] Out-of-order packet 3 received, expected 0, consider it as dropped
+2024-12-17 00:06:36,159 - [Entity_2] Packet 5 dropped
+2024-12-17 00:06:36,189 - [Entity_2] Out-of-order packet 4 received, expected 0, consider it as dropped
+2024-12-17 00:06:36,250 - [Entity_2] Generated packet 10
+2024-12-17 00:06:36,311 - [Entity_2] Sent packet 6
+2024-12-17 00:06:36,311 - [Entity_2] Out-of-order packet 5 received, expected 0, consider it as dropped
+2024-12-17 00:06:36,311 - LISTENING FOR ACKS
+2024-12-17 00:06:36,372 - Total packets transferred: 4
+2024-12-17 00:06:36,372 - Total packets dropped: 2
+2024-12-17 00:06:36,372 - Total packets received: 0
+2024-12-17 00:06:36,373 - [Entity_2] Out-of-order packet 6 received, expected 0, consider it as dropped
+2024-12-17 00:06:36,433 - [Entity_2] Generated packet 11
+2024-12-17 00:06:36,572 - [Entity_2] Generated packet 12
+2024-12-17 00:06:36,982 - [Entity_2] Generated packet 13
+2024-12-17 00:06:37,377 - [Entity_2] Generated packet 14
+2024-12-17 00:06:37,833 - [Entity_2] Generated packet 15
+2024-12-17 00:06:38,122 - [Entity_2] Generated packet 16
+2024-12-17 00:06:38,334 - [Entity_2] Generated packet 17
+2024-12-17 00:06:38,381 - Total packets transferred: 4
+2024-12-17 00:06:38,381 - Total packets dropped: 2
+2024-12-17 00:06:38,382 - Total packets received: 0
+2024-12-17 00:06:38,791 - [Entity_2] Generated packet 18
+2024-12-17 00:06:39,064 - [Entity_2] Generated packet 19
+2024-12-17 00:06:39,309 - [Entity_2] Generated packet 20
+2024-12-17 00:06:39,521 - [Entity_2] Generated packet 21
+2024-12-17 00:06:39,582 - [Entity_2] Packet 0 dropped
+2024-12-17 00:06:39,582 - Resending packet 0
+2024-12-17 00:06:39,688 - [Entity_2] Received in-sequence packet 0
+2024-12-17 00:06:39,690 - [Entity_2] Sent ACK for packet 0
+2024-12-17 00:06:39,704 - [Entity_2] Sent packet 1
+2024-12-17 00:06:39,704 - Resending packet 1
+2024-12-17 00:06:39,781 - [Entity_2] Received in-sequence packet 1
+2024-12-17 00:06:39,781 - [Entity_2] Sent ACK for packet 1
+2024-12-17 00:06:39,904 - [Entity_2] Sent packet 2
+2024-12-17 00:06:39,904 - Resending packet 2
+2024-12-17 00:06:39,919 - [Entity_2] Generated packet 22
+2024-12-17 00:06:39,996 - [Entity_2] Received in-sequence packet 2
+2024-12-17 00:06:39,996 - [Entity_2] Sent ACK for packet 2
+2024-12-17 00:06:40,088 - [Entity_2] Sent packet 3
+2024-12-17 00:06:40,088 - Resending packet 3
+2024-12-17 00:06:40,104 - [Entity_2] Received in-sequence packet 3
+2024-12-17 00:06:40,105 - [Entity_2] Sent ACK for packet 3
+2024-12-17 00:06:40,225 - [Entity_2] Received in-sequence packet 4
+2024-12-17 00:06:40,225 - [Entity_2] Sent ACK for packet 4
+2024-12-17 00:06:40,240 - [Entity_2] Sent packet 4
+2024-12-17 00:06:40,240 - Resending packet 4
+2024-12-17 00:06:40,301 - [Entity_2] Generated packet 23
+2024-12-17 00:06:40,346 - [Entity_2] Sent packet 5
+2024-12-17 00:06:40,346 - Resending packet 5
+2024-12-17 00:06:40,393 - Total packets transferred: 9
+2024-12-17 00:06:40,393 - Total packets dropped: 3
+2024-12-17 00:06:40,393 - Total packets received: 5
+2024-12-17 00:06:40,422 - [Entity_2] Generated packet 24
+2024-12-17 00:06:40,438 - [Entity_2] Sent packet 6
+2024-12-17 00:06:40,438 - Resending packet 6
+2024-12-17 00:06:40,438 - LISTENING FOR ACKS
+2024-12-17 00:06:40,453 - [Entity_2] Received in-sequence packet 5
+2024-12-17 00:06:40,453 - [Entity_2] Sent ACK for packet 5
+2024-12-17 00:06:40,575 - [Entity_2] Received in-sequence packet 6
+2024-12-17 00:06:40,575 - [Entity_2] Sent ACK for packet 6
+2024-12-17 00:06:40,636 - [Entity_2] Generated packet 25
+2024-12-17 00:06:40,864 - [Entity_2] Generated packet 26
+2024-12-17 00:06:41,059 - [Entity_2] Generated packet 27
+2024-12-17 00:06:41,224 - [Entity_2] Generated packet 28
+2024-12-17 00:06:41,710 - [Entity_2] Generated packet 29
+2024-12-17 00:06:42,005 - [Entity_2] Generated packet 30
+2024-12-17 00:06:42,231 - [Entity_2] Generated packet 31
+2024-12-17 00:06:42,399 - Total packets transferred: 10
+2024-12-17 00:06:42,399 - Total packets dropped: 3
+2024-12-17 00:06:42,399 - Total packets received: 7
+2024-12-17 00:06:42,583 - [Entity_2] Generated packet 32
+2024-12-17 00:06:42,993 - [Entity_2] Generated packet 33
+2024-12-17 00:06:43,464 - [Entity_2] Generated packet 34
+2024-12-17 00:06:43,615 - [Entity_2] Generated packet 35
+2024-12-17 00:06:43,756 - [Entity_2] Generated packet 36
+2024-12-17 00:06:43,813 - [Entity_2] Packet 0 dropped
+2024-12-17 00:06:43,813 - Resending packet 0
+2024-12-17 00:06:43,874 - [Entity_2] Received in-sequence packet 7
+2024-12-17 00:06:43,876 - [Entity_2] Sent ACK for packet 7
+2024-12-17 00:06:43,920 - [Entity_2] Packet 1 dropped
+2024-12-17 00:06:43,920 - Resending packet 1
+2024-12-17 00:06:44,056 - [Entity_2] Sent packet 2
+2024-12-17 00:06:44,056 - Resending packet 2
+2024-12-17 00:06:44,132 - [Entity_2] Sent packet 3
+2024-12-17 00:06:44,133 - Resending packet 3
+2024-12-17 00:06:44,147 - [Entity_2] Generated packet 37
+2024-12-17 00:06:44,206 - [Entity_2] Out-of-order packet 9 received, expected 8, consider it as dropped
+2024-12-17 00:06:44,267 - [Entity_2] Out-of-order packet 10 received, expected 8, consider it as dropped
+2024-12-17 00:06:44,328 - [Entity_2] Sent packet 4
+2024-12-17 00:06:44,329 - Resending packet 4
+2024-12-17 00:06:44,358 - [Entity_2] Generated packet 38
+2024-12-17 00:06:44,404 - Total packets transferred: 13
+2024-12-17 00:06:44,404 - Total packets dropped: 5
+2024-12-17 00:06:44,404 - Total packets received: 8
+2024-12-17 00:06:44,450 - [Entity_2] Out-of-order packet 11 received, expected 8, consider it as dropped
+2024-12-17 00:06:44,496 - [Entity_2] Packet 5 dropped
+2024-12-17 00:06:44,496 - Resending packet 5
+2024-12-17 00:06:44,646 - [Entity_2] Sent packet 6
+2024-12-17 00:06:44,646 - Resending packet 6
+2024-12-17 00:06:44,647 - LISTENING FOR ACKS
+2024-12-17 00:06:44,766 - [Entity_2] Out-of-order packet 13 received, expected 8, consider it as dropped
+2024-12-17 00:06:44,843 - [Entity_2] Generated packet 39
+2024-12-17 00:06:44,874 - [Entity_2] Out-of-order packet 7 received, expected 8, consider it as dropped
+2024-12-17 00:06:44,949 - [Entity_2] Generated packet 40
+2024-12-17 00:06:44,964 - [Entity_2] Received in-sequence packet 8
+2024-12-17 00:06:44,965 - [Entity_2] Sent ACK for packet 8
+2024-12-17 00:06:45,193 - [Entity_2] Received in-sequence packet 9
+2024-12-17 00:06:45,194 - [Entity_2] Sent ACK for packet 9
+2024-12-17 00:06:45,331 - [Entity_2] Received in-sequence packet 10
+2024-12-17 00:06:45,334 - [Entity_2] Sent ACK for packet 10
+2024-12-17 00:06:45,437 - [Entity_2] Generated packet 41
+2024-12-17 00:06:45,468 - [Entity_2] Received in-sequence packet 11
+2024-12-17 00:06:45,471 - [Entity_2] Sent ACK for packet 11
+2024-12-17 00:06:45,574 - [Entity_2] Received in-sequence packet 12
+2024-12-17 00:06:45,575 - [Entity_2] Sent ACK for packet 12
+2024-12-17 00:06:45,771 - [Entity_2] Received in-sequence packet 13
+2024-12-17 00:06:45,772 - [Entity_2] Sent ACK for packet 13
+2024-12-17 00:06:45,924 - [Entity_2] Generated packet 42
+2024-12-17 00:06:46,201 - [Entity_2] Generated packet 43
+2024-12-17 00:06:46,412 - Total packets transferred: 14
+2024-12-17 00:06:46,412 - Total packets dropped: 6
+2024-12-17 00:06:46,412 - Total packets received: 14
+2024-12-17 00:06:46,457 - [Entity_2] Generated packet 44
+2024-12-17 00:06:46,653 - [Entity_2] Generated packet 45
+2024-12-17 00:06:47,063 - [Entity_2] Generated packet 46
+2024-12-17 00:06:47,460 - [Entity_2] Generated packet 47
+2024-12-17 00:06:47,761 - [Entity_2] Generated packet 48
+2024-12-17 00:06:47,917 - [Entity_2] Sent packet 0
+2024-12-17 00:06:47,918 - Resending packet 0
+2024-12-17 00:06:47,932 - [Entity_2] Generated packet 49
+2024-12-17 00:06:48,066 - [Entity_2] Sent packet 1
+2024-12-17 00:06:48,066 - Resending packet 1
+2024-12-17 00:06:48,142 - [Entity_2] Sent packet 2
+2024-12-17 00:06:48,142 - Resending packet 2
+2024-12-17 00:06:48,217 - [Entity_2] Sent packet 3
+2024-12-17 00:06:48,217 - Resending packet 3
+2024-12-17 00:06:48,352 - [Entity_2] Sent packet 4
+2024-12-17 00:06:48,352 - Resending packet 4
+2024-12-17 00:06:48,398 - [Entity_2] Generated packet 50
+2024-12-17 00:06:48,413 - Total packets transferred: 19
+2024-12-17 00:06:48,413 - Total packets dropped: 6
+2024-12-17 00:06:48,413 - Total packets received: 14
+2024-12-17 00:06:48,430 - [Entity_2] Sent packet 5
+2024-12-17 00:06:48,430 - Resending packet 5
+2024-12-17 00:06:48,613 - [Entity_2] Generated packet 51
+2024-12-17 00:06:48,629 - [Entity_2] Sent packet 6
+2024-12-17 00:06:48,630 - Resending packet 6
+2024-12-17 00:06:48,630 - LISTENING FOR ACKS
+2024-12-17 00:06:48,630 - [Entity_2] Received ACK for packet 0
+2024-12-17 00:06:48,630 - Marking 0 as acked
+2024-12-17 00:06:48,630 - LISTENING FOR ACKS
+2024-12-17 00:06:48,630 - [Entity_2] Received ACK for packet 1
+2024-12-17 00:06:48,631 - Marking 1 as acked
+2024-12-17 00:06:48,631 - LISTENING FOR ACKS
+2024-12-17 00:06:48,631 - [Entity_2] Received ACK for packet 2
+2024-12-17 00:06:48,632 - Marking 2 as acked
+2024-12-17 00:06:48,632 - LISTENING FOR ACKS
+2024-12-17 00:06:48,632 - [Entity_2] Received ACK for packet 3
+2024-12-17 00:06:48,632 - Marking 3 as acked
+2024-12-17 00:06:48,633 - LISTENING FOR ACKS
+2024-12-17 00:06:48,702 - [Entity_2] Received ACK for packet 4
+2024-12-17 00:06:48,703 - Marking 4 as acked
+2024-12-17 00:06:48,704 - LISTENING FOR ACKS
+2024-12-17 00:06:48,734 - [Entity_2] Generated packet 52
+2024-12-17 00:06:48,856 - [Entity_2] Received ACK for packet 5
+2024-12-17 00:06:48,856 - Marking 5 as acked
+2024-12-17 00:06:48,857 - LISTENING FOR ACKS
+2024-12-17 00:06:49,007 - [Entity_2] Out-of-order packet 8 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,049 - [Entity_2] Received ACK for packet 6
+2024-12-17 00:06:49,049 - Marking 6 as acked
+2024-12-17 00:06:49,049 - LISTENING FOR ACKS
+2024-12-17 00:06:49,220 - [Entity_2] Generated packet 53
+2024-12-17 00:06:49,266 - [Entity_2] Out-of-order packet 9 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,463 - [Entity_2] Out-of-order packet 10 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,538 - [Entity_2] Out-of-order packet 11 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,695 - [Entity_2] Out-of-order packet 12 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,708 - [Entity_2] Generated packet 54
+2024-12-17 00:06:49,769 - [Entity_2] Out-of-order packet 13 received, expected 14, consider it as dropped
+2024-12-17 00:06:49,937 - [Entity_2] Received in-sequence packet 14
+2024-12-17 00:06:49,938 - [Entity_2] Sent ACK for packet 14
+2024-12-17 00:06:50,073 - [Entity_2] Generated packet 55
+2024-12-17 00:06:50,225 - [Entity_2] Generated packet 56
+2024-12-17 00:06:50,422 - Total packets transferred: 21
+2024-12-17 00:06:50,422 - Total packets dropped: 6
+2024-12-17 00:06:50,422 - Total packets received: 15
+2024-12-17 00:06:50,468 - [Entity_2] Generated packet 57
+2024-12-17 00:06:50,892 - [Entity_2] Generated packet 58
+2024-12-17 00:06:51,075 - [Entity_2] Generated packet 59
+2024-12-17 00:06:51,540 - [Entity_2] Generated packet 60
+2024-12-17 00:06:51,676 - [Entity_2] Generated packet 61
+2024-12-17 00:06:52,027 - [Entity_2] Generated packet 62
+2024-12-17 00:06:52,150 - [Entity_2] Generated packet 63
+2024-12-17 00:06:52,181 - [Entity_2] Sent packet 7
+2024-12-17 00:06:52,181 - Resending packet 7
+2024-12-17 00:06:52,333 - [Entity_2] Sent packet 8
+2024-12-17 00:06:52,333 - Resending packet 8
+2024-12-17 00:06:52,424 - Total packets transferred: 23
+2024-12-17 00:06:52,424 - Total packets dropped: 6
+2024-12-17 00:06:52,424 - Total packets received: 15
+2024-12-17 00:06:52,514 - [Entity_2] Sent packet 9
+2024-12-17 00:06:52,515 - Resending packet 9
+2024-12-17 00:06:52,590 - [Entity_2] Packet 10 dropped
+2024-12-17 00:06:52,590 - Resending packet 10
+2024-12-17 00:06:52,620 - [Entity_2] Generated packet 64
+2024-12-17 00:06:52,758 - [Entity_2] Sent packet 11
+2024-12-17 00:06:52,758 - Resending packet 11
+2024-12-17 00:06:52,938 - [Entity_2] Sent packet 12
+2024-12-17 00:06:52,939 - Resending packet 12
+2024-12-17 00:06:53,075 - [Entity_2] Sent packet 13
+2024-12-17 00:06:53,076 - Resending packet 13
+2024-12-17 00:06:53,076 - [Entity_2] Timeout, resending window from 7 to 14, and ack_recieved_upto: 6
+2024-12-17 00:06:53,104 - [Entity_2] Generated packet 65
+2024-12-17 00:06:53,227 - [Entity_2] Out-of-order packet 14 received, expected 15, consider it as dropped
+2024-12-17 00:06:53,257 - [Entity_2] Sent packet 7
+2024-12-17 00:06:53,348 - [Entity_2] Received in-sequence packet 15
+2024-12-17 00:06:53,349 - [Entity_2] Sent ACK for packet 15
+2024-12-17 00:06:53,424 - [Entity_2] Sent packet 8
+2024-12-17 00:06:53,455 - [Entity_2] Generated packet 66
+2024-12-17 00:06:53,547 - [Entity_2] Received in-sequence packet 16
+2024-12-17 00:06:53,548 - [Entity_2] Sent ACK for packet 16
+2024-12-17 00:06:53,548 - [Entity_2] Sent packet 9
+2024-12-17 00:06:53,697 - [Entity_2] Received in-sequence packet 17
+2024-12-17 00:06:53,697 - [Entity_2] Packet 10 dropped
+2024-12-17 00:06:53,698 - [Entity_2] Sent ACK for packet 17
+2024-12-17 00:06:53,833 - [Entity_2] Received in-sequence packet 18
+2024-12-17 00:06:53,834 - [Entity_2] Sent ACK for packet 18
+2024-12-17 00:06:53,880 - [Entity_2] Sent packet 11
+2024-12-17 00:06:53,925 - [Entity_2] Generated packet 67
+2024-12-17 00:06:54,002 - [Entity_2] Received in-sequence packet 19
+2024-12-17 00:06:54,003 - [Entity_2] Sent ACK for packet 19
+2024-12-17 00:06:54,047 - [Entity_2] Sent packet 12
+2024-12-17 00:06:54,093 - [Entity_2] Received in-sequence packet 20
+2024-12-17 00:06:54,093 - [Entity_2] Sent ACK for packet 20
+2024-12-17 00:06:54,171 - [Entity_2] Sent packet 13
+2024-12-17 00:06:54,171 - LISTENING FOR ACKS
+2024-12-17 00:06:54,171 - [Entity_2] Received ACK for packet 7
+2024-12-17 00:06:54,171 - Marking 7 as acked
+2024-12-17 00:06:54,172 - LISTENING FOR ACKS
+2024-12-17 00:06:54,172 - [Entity_2] Received ACK for packet 8
+2024-12-17 00:06:54,172 - Marking 8 as acked
+2024-12-17 00:06:54,172 - LISTENING FOR ACKS
+2024-12-17 00:06:54,173 - [Entity_2] Received ACK for packet 9
+2024-12-17 00:06:54,173 - Marking 9 as acked
+2024-12-17 00:06:54,173 - LISTENING FOR ACKS
+2024-12-17 00:06:54,337 - [Entity_2] Generated packet 68
+2024-12-17 00:06:54,428 - Total packets transferred: 33
+2024-12-17 00:06:54,428 - Total packets dropped: 8
+2024-12-17 00:06:54,428 - Total packets received: 21
+2024-12-17 00:06:54,762 - [Entity_2] Generated packet 69
+2024-12-17 00:06:55,204 - [Entity_2] Generated packet 70
+2024-12-17 00:06:55,310 - [Entity_2] Generated packet 71
+2024-12-17 00:06:55,660 - [Entity_2] Generated packet 72
+2024-12-17 00:06:56,054 - [Entity_2] Generated packet 73
+2024-12-17 00:06:56,433 - Total packets transferred: 33
+2024-12-17 00:06:56,433 - Total packets dropped: 8
+2024-12-17 00:06:56,433 - Total packets received: 21
+2024-12-17 00:06:56,493 - [Entity_2] Generated packet 74
+2024-12-17 00:06:56,919 - [Entity_2] Generated packet 75
+2024-12-17 00:06:57,362 - [Entity_2] Generated packet 76
+2024-12-17 00:06:57,423 - [Entity_2] Packet 10 dropped
+2024-12-17 00:06:57,423 - Resending packet 10
+2024-12-17 00:06:57,591 - [Entity_2] Sent packet 11
+2024-12-17 00:06:57,591 - Resending packet 11
+2024-12-17 00:06:57,624 - [Entity_2] Out-of-order packet 22 received, expected 21, consider it as dropped
+2024-12-17 00:06:57,696 - [Entity_2] Sent packet 12
+2024-12-17 00:06:57,696 - Resending packet 12
+2024-12-17 00:06:57,816 - [Entity_2] Out-of-order packet 23 received, expected 21, consider it as dropped
+2024-12-17 00:06:57,861 - [Entity_2] Generated packet 77
+2024-12-17 00:06:57,923 - [Entity_2] Out-of-order packet 24 received, expected 21, consider it as dropped
+2024-12-17 00:06:57,924 - [Entity_2] Sent packet 13
+2024-12-17 00:06:57,925 - Resending packet 13
+2024-12-17 00:06:58,015 - [Entity_2] Sent packet 14
+2024-12-17 00:06:58,016 - Resending packet 14
+2024-12-17 00:06:58,090 - [Entity_2] Generated packet 78
+2024-12-17 00:06:58,095 - [Entity_2] Out-of-order packet 25 received, expected 21, consider it as dropped
+2024-12-17 00:06:58,182 - [Entity_2] Sent packet 15
+2024-12-17 00:06:58,183 - Resending packet 15
+2024-12-17 00:06:58,212 - [Entity_2] Out-of-order packet 26 received, expected 21, consider it as dropped
